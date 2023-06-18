@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://portfolio-2022-9gzc14t2a-lazim-mv.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
