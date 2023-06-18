@@ -6,6 +6,7 @@ import Instagram from '../../img/instagram.png';
 import Vector1 from '../../img/Vector1.png';
 import Vector2 from '../../img/Vector2.png';
 import boy from '../../img/boy.png';
+import hero from '../../img/laptopBoy.webp';
 import thumbup from '../../img/thumbup.png';
 import Crown from '../../img/crown.png';
 import Glassesimoji from '../../img/glassesimoji.png';
@@ -48,7 +49,7 @@ function Intro() {
       <div className="i-right">
         <img src={Vector1} alt="Vector1" />
         <img src={Vector2} alt="Vector2" />
-        <img src={boy} alt="Boy" />
+        <img src={hero} alt="Boy" style={{width:"50%",padding:"25px 70px 0px 0px"}}/>
         <motion.img 
         initial={{left:'-36%'}}
         whileInView={{left:'-24%'}}
